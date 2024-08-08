@@ -40,6 +40,3 @@ This tutorial is based on the work available at [Original Tutorial](https://cola
 
 
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
-
