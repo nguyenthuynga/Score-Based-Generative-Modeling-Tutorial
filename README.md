@@ -2,6 +2,8 @@
 
 This repository contains a tutorial on score-based generative modeling, with simple mathematical explanations to aid understanding. The tutorial is based on [this Colab notebook](https://colab.research.google.com/drive/120kYYBOVa1i0TD85RjlEkFjaWDxSFUx3?usp=sharing#scrollTo=XCR6m0HjWGVV) and the foundational concepts are derived from the original [paper](https://arxiv.org/pdf/2011.13456) by Yang Song et al.
 
+Our toy results can be found in [these slides](https://docs.google.com/presentation/d/17FPQBpMr0WZXneJ0suz6WcTht1VMG8fFqCq-VZ5AHwI/edit?usp=sharing) 
+
 ## Overview
 
 Score-based generative models, also known as diffusion models, are a powerful class of generative models that have shown state-of-the-art performance in generating high-quality images. This tutorial provides a comprehensive introduction to these models, including:
